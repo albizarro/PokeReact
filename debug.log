@@ -1,0 +1,9 @@
+[1010/111444.790:ERROR:settings.cc(430)] Settings version is not 5
+[1010/112444.815:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aldoa\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0499251a-db17-4da1-aad6-8511f3f05677: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/112444.815:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aldoa\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\1f5b5a6c-ed73-40da-a78a-71907bc8d388: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/112444.893:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aldoa\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5a67b4e4-2c85-4633-8224-44f4a0bad4e8: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/112444.893:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aldoa\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\9d2fe88f-1a3e-4a33-ab18-fd4a3b994706: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/112444.909:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aldoa\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\a8f70fdb-26e0-45c9-a35d-b8a66041b9a9: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/112444.909:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1011/204130.638:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1013/155537.418:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
