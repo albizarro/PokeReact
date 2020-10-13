@@ -43,9 +43,9 @@ const FirstGen = (props) => {
                 loading ? (
                     <div className="container text-center">
                         <div className=" row m-5 justify-content-center">
-                        <img src={pokespin} className="col-2" alt="loading"/> 
+                        <img src={pokespin} style={{height: "120px" , width:"120px"}} alt="loading"/> 
                         <h1 className=" row m-5 justify-content-center col-6"> Loading...</h1>
-                        <img src={pokespin} className="col-2" alt="loading"/>
+                        <img src={pokespin}  style={{height: "120px" , width:"120px"}}  alt="loading"/>
                         </div>
                     </div>
                 ):(
