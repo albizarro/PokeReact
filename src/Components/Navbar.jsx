@@ -91,7 +91,7 @@ const Navbar = () => {
                      </Link>
 
                      <a className="btn-danger text-center" href="https://github.com/albizarro/PokeReact">
-                         Chek my GitHub Repo!
+                         Check my GitHub Repo!
                      </a>
             </div>
             }
